@@ -1,7 +1,7 @@
 {
     "name": "Curriculum",
     "short-name": "Curriculum",
-    "start_url": "/https://brayanl4.github.io/Curriculum-vitae/",
+    "start_url": "https://brayanl4.github.io/Curriculum-vitae/",
     "display": "standalone",
     "icons":[
         {
