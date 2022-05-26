@@ -1,6 +1,7 @@
 {
     "name": "Curriculum",
     "short-name": "Curriculum",
+    "description": "hoola esta es una descripcion",
     "start_url": "https://brayanl4.github.io/Curriculum-vitae/",
     "display": "standalone",
     "icons":[
